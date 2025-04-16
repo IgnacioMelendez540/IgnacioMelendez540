@@ -40,7 +40,7 @@ I'm passionate about programming and love building applications and websites tha
 ## 📫 Contact
 
 ✉️ ignacio.melendez@540deg.com
-📎 [LinkedIn](https://www.linkedin.com/in/ignaciomelendezuris)
+📎 [LinkedIn](https://www.linkedin.com/in/ignaciomelendezuriz)
 
 ---
 
